@@ -2,7 +2,7 @@
 input/
 notebooks/model*
 notebooks/checkpoint
-
+notebooks/submission*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
